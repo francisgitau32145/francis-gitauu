@@ -1,6 +1,6 @@
 
-/*PA106/G/29043/25
-Christopher Nyasimba 
+/*CT100/G/26126/25
+francis gitau 
 program to calculate total number of occupied rooms accrooss three branches*/
 
 
